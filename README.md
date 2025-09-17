@@ -24,7 +24,7 @@ Data Generation: Python
 
 Visualization: Power BI / Tableau
 
-📈 Project Workflow\
+📈 Project Workflow
 
 Data Cleaning and Preparation: The raw dataset was loaded into a MySQL database named web_traffic_db. Data quality was ensured by handling missing values and removing outliers, such as capping 
 
