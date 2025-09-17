@@ -12,7 +12,7 @@ What are the peak hours for user activity on the website?
 
 How effective is the website at retaining users over time?
 
-📊 Dashboard Preview \
+📊 Dashboard Preview 
 The final output is a comprehensive dashboard that visually summarizes the key findings from the analysis.
 
 🛠️ Tech Stack
