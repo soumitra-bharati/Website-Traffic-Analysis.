@@ -1,5 +1,5 @@
 # Website Traffic and User Behavior Analysis
-🚀 ** Project Overview
+🚀 **Project Overview**
 This project provides a comprehensive analysis of a website traffic dataset to identify user behavior patterns, measure key performance indicators (KPIs), and derive actionable insights for marketing and website optimization. The entire data lifecycle is covered, from cleaning and preparation in a MySQL database to final visualization in a summary dashboard.
 
 
@@ -15,15 +15,15 @@ What are the peak hours for user activity on the website?
 
 How effective is the website at retaining users over time?
 
-📊 ** Dashboard Preview
+📊 **Dashboard Preview**
 The final output is a comprehensive dashboard that visually summarizes the key findings from the analysis.
 
 (Placeholder for dashboard image Traffic Analysis Dashboard.pdf)
 
-🛠️ ** Tech Stack
+🛠️ **Tech Stack**
 
-** Database: MySQL 
-** Data Cleaning & Analysis: SQL 
+**Database**: MySQL 
+**Data Cleaning & Analysis**: SQL 
 
 Data Generation: Python
 
