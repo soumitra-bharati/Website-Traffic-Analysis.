@@ -1,4 +1,4 @@
-Website Traffic and User Behavior Analysis
+# Website Traffic and User Behavior Analysis
 🚀 Project Overview
 This project provides a comprehensive analysis of a website traffic dataset to identify user behavior patterns, measure key performance indicators (KPIs), and derive actionable insights for marketing and website optimization. The entire data lifecycle is covered, from cleaning and preparation in a MySQL database to final visualization in a summary dashboard.
 
