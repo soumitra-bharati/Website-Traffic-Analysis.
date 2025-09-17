@@ -1,5 +1,5 @@
 # Website Traffic and User Behavior Analysis
-🚀 **Project Overview** \
+🚀 Project Overview \
 This project provides a comprehensive analysis of a website traffic dataset to identify user behavior patterns, measure key performance indicators (KPIs), and derive actionable insights for marketing and website optimization. The entire data lifecycle is covered, from cleaning and preparation in a MySQL database to final visualization in a summary dashboard.
 
 The analysis focuses on answering critical business questions such as:
@@ -12,19 +12,17 @@ What are the peak hours for user activity on the website?
 
 How effective is the website at retaining users over time?
 
-📊 **Dashboard Preview** \
+📊 Dashboard Preview \
 The final output is a comprehensive dashboard that visually summarizes the key findings from the analysis.
 
-(Placeholder for dashboard image Traffic Analysis Dashboard.pdf)
+🛠️ Tech Stack
 
-🛠️ **Tech Stack**\
+Database: MySQL 
+Data Cleaning & Analysis: SQL 
 
-**Database**: MySQL \
-**Data Cleaning & Analysis**: SQL \
+Data Generation: Python
 
-Data Generation: Python\
-
-Visualization: Power BI / Tableau\
+Visualization: Power BI / Tableau
 
 📈 Project Workflow\
 
@@ -53,14 +51,14 @@ Data Analysis & Visualization: The aggregated data was used to build the final d
 
 
 
-💡 Key Insights & Results\
+💡 Key Insights & Results
 
-Top Performing Channel: Organic Search is the most valuable traffic source, driving the highest number of sessions (8.0K) and the most conversions (409, or 41.35% of the total). \
+Top Performing Channel: Organic Search is the most valuable traffic source, driving the highest number of sessions (8.0K) and the most conversions (409, or 41.35% of the total). 
 
-Device Performance: Desktop users are the highest converting segment, accounting for 491 conversions. \
+Device Performance: Desktop users are the highest converting segment, accounting for 491 conversions. 
 
-Peak Engagement Hours: User traffic peaks around 11:00 AM, with 885 sessions recorded at that hour, providing an optimal time for marketing activities. \ 
+Peak Engagement Hours: User traffic peaks around 11:00 AM, with 885 sessions recorded at that hour, providing an optimal time for marketing activities. 
 
-User Retention: The analysis revealed a user retention rate of 92.47%. \
+User Retention: The analysis revealed a user retention rate of 92.47%. 
 
 Traffic Quality: The overall bounce rate for the website is 40.40%, with consistent performance across all major traffic sources (39-41%).
